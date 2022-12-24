@@ -1,21 +1,21 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
-        "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "token": "ODM4NDkyNzQwODg2MjAwMzQw.GnN8fF.I_Hk0ZRafuGS81BXlXX-XowJ0-jVXOWEABnOZo",
+        "owner": "531182090633478144",
+        "prefix": ",",
+        "botStatus": "Cano | Noche",
+        "botVoiceChannelID": "1048356067328921660"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
-        "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
-        "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
-        "TagRole": "TAG ROL",
-        "Suspicious": "ŞÜPHELİ ROL",
-        "Jail": "JAİL ROL"
+        "BoyRole1": "1040877657673433088",
+        "BoyRole2": "1053793802848047215",
+        "GirlRole1": "1040878124587548772",
+        "GirlRole2": "1053793894971748433",
+        "Unregister": "1040733398211244073",
+        "Registerer": "1040714388962816020",
+        "TagRole": "1053640830704959529",
+        "Suspicious": "1053640495877865472",
+        "Jail": "1053968118654967868"
     },
         "Colors": {
             "Red": "ff0000",
@@ -27,19 +27,19 @@
             "Yellow": "ffff00"
     },
         "ServerSettings": {
-            "ServerName": "SUNUCU ADI",
-            "ServerID": "SERVER ID",
-            "Tag": "TAG",
-            "UnTag": "UNTAG"
+            "ServerName": "Noce",
+            "ServerID": "1040709052554031226",
+            "Tag": "♧",
+            "UnTag": "5253"
     },
         "Channels": {
-            "RegisterChat": "KAYIT CHAT",
-            "TagLog": "TAG LOG",
-            "Rules": "KURALLAR CHAT",
-            "GeneralChat": "GENEL CHAT"
+            "RegisterChat": "1040734013385625662",
+            "TagLog": "1053792982484131931",
+            "Rules": "1040714429765001226",
+            "GeneralChat": "1041712218951123035"
         },
         "Welcome": {
             "WelcomeChat": "HOŞGELDİN CHAT",
-            "WelcomeName": "• İsim | Yaş"
+            "WelcomeName": "♧ İsim | Yaş"
         }
 }
