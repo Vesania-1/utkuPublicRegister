@@ -1,21 +1,21 @@
 {
     "BotSettings": {
-        "token": "TOKEN",
-        "owner": "SAHİP ID",
-        "prefix": "PREFİX",
-        "botStatus": "botclub.net",
-        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+        "token": "MTA1NTE1NTk0MjY5OTgyNzMzMA.GT6nCl.ap5yU5nWUYrbby08AUsFLzOAc4SJNgqhBnwXNk",
+        "owner": "531182090633478144",
+        "prefix": ".",
+        "botStatus": "Cano",
+        "botVoiceChannelID": "1057302338618003521"
     },
     "Roles": {
-        "BoyRole1": "ERKEK ROL 1",
-        "BoyRole2": "ERKEK ROL 2",
-        "GirlRole1": "KIZ ROL 1",
-        "GirlRole2": "KIZ ROL 2",
-        "Unregister": "KAYITSIZ ROL",
-        "Registerer": "YETKİLİ ROL",
-        "TagRole": "TAG ROL",
-        "Suspicious": "ŞÜPHELİ ROL",
-        "Jail": "JAİL ROL"
+        "BoyRole1": "850139444069924894",
+        "BoyRole2": "",
+        "GirlRole1": "850139442617647165",
+        "GirlRole2": "",
+        "Unregister": "850139452974301184",
+        "Registerer": "850139426604187668",
+        "TagRole": "850139436690964590",
+        "Suspicious": "850139460796547072",
+        "Jail": "850139460796547072"
     },
         "Colors": {
             "Red": "ff0000",
@@ -27,19 +27,19 @@
             "Yellow": "ffff00"
     },
         "ServerSettings": {
-            "ServerName": "SUNUCU ADI",
-            "ServerID": "SERVER ID",
-            "Tag": "TAG",
-            "UnTag": "UNTAG"
+            "ServerName": "Owen",
+            "ServerID": "839300370785370152",
+            "Tag": "Ϟ",
+            "UnTag": "1358"
     },
         "Channels": {
-            "RegisterChat": "KAYIT CHAT",
-            "TagLog": "TAG LOG",
-            "Rules": "KURALLAR CHAT",
-            "GeneralChat": "GENEL CHAT"
+            "RegisterChat": "850139505607311390",
+            "TagLog": "1057663736195850240",
+            "Rules": "850139519532662804",
+            "GeneralChat": "850139637905358929"
         },
         "Welcome": {
-            "WelcomeChat": "HOŞGELDİN CHAT",
-            "WelcomeName": "• İsim | Yaş"
+            "WelcomeChat": "850139505607311390",
+            "WelcomeName": "Ϟ İsim | Yaş"
         }
 }
